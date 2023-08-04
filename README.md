@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+New Project:
+Clone
+Rename
+Remove config/master.key and config/credentials.yml.enc
+Run EDITOR=vim rails credentials:edit in the terminal: This command will create a new master.key and credentials.yml.enc if they do not exist.
