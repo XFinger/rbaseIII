@@ -66,6 +66,6 @@ gem "vite_ruby"
 gem "ruby-vips", "~> 2.1", ">= 2.1.4"
 gem "annotate", group: :development
 gem "devise"
-gem "name_of_person"
+# gem "name_of_person"
 gem "stimulus-rails"
 gem "turbo-rails"
