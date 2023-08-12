@@ -71,4 +71,5 @@ gem "devise"
 # gem "name_of_person"
 gem "stimulus-rails"
 gem "turbo-rails"
+gem 'hotwire-rails'
 
