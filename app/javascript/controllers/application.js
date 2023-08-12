@@ -2,7 +2,7 @@ import { Application } from "@hotwired/stimulus"
 
 const application = Application.start()
 
-// Import and register all TailwindCSS Components or just the ones you need
+// Import and register TailwindCSS Components or just the ones you need
 import { Alert, Autosave, Dropdown, Modal, Tabs, Popover, Toggle, Slideover } from "tailwindcss-stimulus-components"
 application.register('alert', Alert)
 application.register('autosave', Autosave)
